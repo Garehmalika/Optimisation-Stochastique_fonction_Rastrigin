@@ -8,15 +8,7 @@ Algorithme Génétique (Genetic Algorithm) : Un algorithme d'optimisation inspir
 Fonction de Rastrigin
 
 La fonction de Rastrigin est définie par :
-# Optimisation de la fonction de Rastrigin avec le Recuit Simulé et l'Algorithme Génétique
-
-## Fonction de Rastrigin
-
-La fonction de Rastrigin est une fonction d'optimisation utilisée pour tester des algorithmes d'optimisation. Elle est définie par la formule suivante :
-
-\[
-f(x) = A \cdot n + \sum_{i=1}^{n} \left[ x_i^2 - A \cdot \cos(2 \pi x_i) \right]
-\]
+![Formule de Rastrigin](path/to/rastrigin_formula.png)
 
 Avec :
 
