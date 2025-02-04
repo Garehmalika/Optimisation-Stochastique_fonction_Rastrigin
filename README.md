@@ -30,8 +30,7 @@ La fonction de Rastrigin est définie par :
 −
 𝐴
 ⋅
-cos
-⁡
+cos⁡
 (
 2
 𝜋
@@ -43,14 +42,11 @@ f(x)=A⋅n+
 i=1
 ∑
 n
-​
  [x 
 i
 2
-​
  −A⋅cos(2πx 
-i
-​
+i​
  )]
 Avec 
 𝐴
@@ -68,7 +64,6 @@ A=10 et
 ]
 x 
 i
-​
  ∈[−5.12,5.12], et où 
 𝑛
 n est le nombre de variables. Le but est de trouver le minimum global, qui est en 
