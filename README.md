@@ -8,9 +8,24 @@ Algorithme Génétique (Genetic Algorithm) : Un algorithme d'optimisation inspir
 Fonction de Rastrigin
 
 La fonction de Rastrigin est définie par :
-$$
-f(\mathbf{x}) = A \cdot n + \sum_{i=1}^{n} \left[ x_{i}^{2} - A \cdot \cos(2\pi x_{i}) \right]
-$$
+# Optimisation de la fonction de Rastrigin avec le Recuit Simulé et l'Algorithme Génétique
+
+## Fonction de Rastrigin
+
+La fonction de Rastrigin est une fonction d'optimisation utilisée pour tester des algorithmes d'optimisation. Elle est définie par la formule suivante :
+
+\[
+f(x) = A \cdot n + \sum_{i=1}^{n} \left[ x_i^2 - A \cdot \cos(2 \pi x_i) \right]
+\]
+
+Avec :
+
+- \( A = 10 \) (un paramètre constant).
+- \( n \) est le nombre de variables d'entrée (dans ce projet, \( n = 2 \)).
+- \( x_i \in [-5.12, 5.12] \) pour chaque variable \( x_i \).
+
+
+
 
 où **A = 10** et :
 
