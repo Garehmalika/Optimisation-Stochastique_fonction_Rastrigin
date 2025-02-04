@@ -8,46 +8,17 @@ Algorithme Génétique (Genetic Algorithm) : Un algorithme d'optimisation inspir
 Fonction de Rastrigin
 
 La fonction de Rastrigin est définie par :
+$$
+f(\mathbf{x}) = A \cdot n + \sum_{i=1}^{n} \left[ x_{i}^{2} - A \cdot \cos(2\pi x_{i}) \right]
+$$
 
-𝑓
-(
-𝑥
-)
-=
-𝐴
-⋅
-𝑛
-+
-∑
-𝑖
-=
-1
-𝑛
-[
-𝑥
-𝑖
-2
-−
-𝐴
-⋅
-cos⁡
-(
-2
-𝜋
-𝑥
-𝑖
-)
-]
-f(x)=A⋅n+ 
-i=1
-∑
-n
- [x 
-i
-2
- −A⋅cos(2πx 
-i​
- )]
+où **A = 10** et :
+
+$$
+x_i \in [-5.12 ; 5.12]
+$$
+
+Son **minimum global** se trouve à **l'origine**, où sa valeur est **nulle**.
 Avec 
 𝐴
 =
