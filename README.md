@@ -14,5 +14,5 @@ Visualiser les résultats de chaque méthode, notamment la convergence de la fon
 
 
 Nom : GAREH MALIKA
-Date de création : LE 04/02/2025
+Date de création : LE 04/12/2024
 Contact : malika.gareh@centrale-casablanca.ma
